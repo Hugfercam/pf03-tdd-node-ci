@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "vitest run",
-  "test:watch": "vitest"
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  }
 }
