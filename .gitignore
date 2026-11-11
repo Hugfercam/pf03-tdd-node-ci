@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Resultados de pruebas y compilación
+coverage/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
